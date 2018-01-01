@@ -1,0 +1,45 @@
+body{
+    background-color: maroon;
+}
+div{
+    margin-left: 35%;
+    margin-right: auto;
+}
+
+.equalButton{
+    width: 30%;
+}
+
+section{
+    width: 22%;
+}
+
+.calculator{
+    width: 40px;
+    height: 40px;
+}
+
+input{
+    width: 160px;
+    height: 50px;
+    font-size: 20px;
+
+}
+
+.screen{
+    width: 160px;
+    height: 50px;
+}
+
+form{
+    margin-top: 35%;
+
+}
+
+#loginButton{
+    width: 70px;
+    height: 50px;
+    font-size: 20px;
+
+}
+
